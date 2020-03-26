@@ -8,7 +8,7 @@ How to run
 
 git clone https://github.com/midhun-b-m/Dice-Simulator
 
-### Run dice Simulator with python on command line
+### Run Dice Simulator with python on command line
 
 python 'dice simulator.py'
 
